@@ -1,0 +1,18 @@
+
+                  ______
+                 /      \
+                (  Woof! )
+                 \  ____/                     
+                 ,,                           (
+             .-.-    _______                ( |__|
+            ()``; |==|_______)               .)|__|
+            / ('        /|\                 (  |__|
+        (  /  )        / | \                 . |__|
+         \(_)_))      /  |  \                   |__|
+
+                    m~ WAFW00F : mv2.2.0 ~
+    The Web Application Firewall Fingerprinting Toolkit
+    
+[*] Checking http://bancocn.com
+[+] The site http://bancocn.com is behind Cloudflare (Cloudflare Inc.) WAF.
+[~] Number of requests: 2
